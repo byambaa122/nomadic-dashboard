@@ -1,8 +1,13 @@
-# nomadic
+## nomadic
 
 > Connecting travellers with local travel agents
 
-## Build Setup
+- [Vue](https://vuejs.org)
+- [Nuxt](https://nuxtjs.org)
+- [Vuetify](https://vuetifyjs.com)
+- [Axios](https://github.com/axios/axios)
+
+### Build Setup
 
 ``` bash
 # install dependencies
